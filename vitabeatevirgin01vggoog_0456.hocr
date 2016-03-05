@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vitabeatevirgin01vggoog_0456.png"; bbox 0 0 3080 4938; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 598 1928 1078 1976">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 598 1928 1078 1976">
+     <span class='ocr_line' id='line_1_1' title="bbox 598 1928 1078 1976; baseline 0.004 -3"><span class='ocrx_word' id='word_1_1' title='bbox 598 1928 678 1974; x_wconf 67' lang='lat' dir='ltr'><strong>ALLE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 698 1929 822 1975; x_wconf 78' lang='lat' dir='ltr'>RECH&#39;I&#39;E</span> <span class='ocrx_word' id='word_1_3' title='bbox 844 1929 1078 1976; x_wconf 76' lang='lat' dir='ltr'>VORBEHALTEN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 553 4343 1129 4401">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 553 4343 1129 4401">
+     <span class='ocr_line' id='line_1_2' title="bbox 553 4343 1129 4401; baseline -0.005 -2"><span class='ocrx_word' id='word_1_4' title='bbox 553 4349 657 4400; x_wconf 68' lang='lat' dir='ltr'>nuncu</span> <span class='ocrx_word' id='word_1_5' title='bbox 675 4355 734 4398; x_wconf 68' lang='lat' dir='ltr'>von</span> <span class='ocrx_word' id='word_1_6' title='bbox 750 4355 781 4401; x_wconf 77' lang='lat' dir='ltr'>n.</span> <span class='ocrx_word' id='word_1_7' title='bbox 795 4349 895 4397; x_wconf 57' lang='lat' dir='ltr'>mmm</span> <span class='ocrx_word' id='word_1_8' title='bbox 910 4357 945 4396; x_wconf 77' lang='lat' dir='ltr'>m</span> <span class='ocrx_word' id='word_1_9' title='bbox 957 4343 1129 4397; x_wconf 59' lang='lat' dir='ltr'>vomens.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1544 4938">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1544 4938">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1544 4938; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1544 4938; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
